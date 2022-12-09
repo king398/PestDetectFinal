@@ -21,6 +21,10 @@ about whether pesticides should be applied to minimize future damage.
 
 # Author
 
-| Author          |                                 GitHub | zindi Id                                                     |
-|-----------------|---------------------------------------:|--------------------------------------------------------------|
-| Mithil Salunkhe | [@king398](https://github.com/king398) | [@mithilsalunkhe](https://zindi.africa/users/mithilsalunkhe) |
+| Author          |                                 GitHub | zindi Id                                                     | Zindi Team Name | 
+|-----------------|---------------------------------------:|--------------------------------------------------------------|-----------------|
+| Mithil Salunkhe | [@king398](https://github.com/king398) | [@mithilsalunkhe](https://zindi.africa/users/mithilsalunkhe) | mithilsalunkhe  |
+
+# Leaderboard For the  Competitions
+![Leaderboard](img.png)
+
