@@ -2,12 +2,12 @@
 
 # Challenge Description
 
-During the kharif season of 2017, cotton farmers across India lost large portions of their crop to a pest known as
+`During the kharif season of 2017, cotton farmers across India lost large portions of their crop to a pest known as
 boll-worms. Since then, farmers have been encouraged to install pheromone traps in their fields as part of a larger
 effort to control the problem. Pheromone traps capture male boll-worms that are capable of reproducing. By counting the
 number of boll-worms caught in such traps, farmers can estimate potential boll-worm infestation to make informed
 decisions
-about whether pesticides should be applied to minimize future damage.
+about whether pesticides should be applied to minimize future damage.`
 
 # Solution
 
